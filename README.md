@@ -13,11 +13,11 @@ A lightweight and responsive analog clock built using only **HTML**, **CSS**, an
 
 ## 📁 Project Structure
 
-
-├── index.html # Main HTML layout
-├── index.css # Clock styling and positioning
-├── index.js # Real-time clock logic using JS
-└── clock.png # Clock face image used as background
+```plaintext
+├── index.html       # Main HTML layout  
+├── index.css        # Clock styling and positioning  
+├── index.js         # Real-time clock logic using JS  
+└── clock.png        # Clock face image used as background  
 
 
 ---
